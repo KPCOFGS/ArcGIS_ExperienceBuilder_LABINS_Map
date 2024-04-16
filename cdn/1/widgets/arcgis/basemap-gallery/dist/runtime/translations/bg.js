@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({_widgetLabel:"Галерия с базови карти"})}}}));

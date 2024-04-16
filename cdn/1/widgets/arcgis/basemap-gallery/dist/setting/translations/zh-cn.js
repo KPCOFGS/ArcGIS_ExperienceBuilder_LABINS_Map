@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({baseMapSettings:"底图设置",groupBasemaps:"与您组织的底图库设置同步",customBasemaps:"配置自定义底图",importBasemaps:"导入",importTips:"单击“导入”按钮为地图微件添加底图。",sideTitle:"导入底图",chooseWebmaps:"选择可将 web 地图用作底图的群组。"})}}}));

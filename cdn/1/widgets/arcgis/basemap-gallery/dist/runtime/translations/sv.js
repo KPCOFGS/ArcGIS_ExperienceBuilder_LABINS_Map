@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({_widgetLabel:"Galleri för baskarta"})}}}));

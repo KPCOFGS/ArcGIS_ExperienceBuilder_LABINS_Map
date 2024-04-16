@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({baseMapSettings:"베이스맵 설정",groupBasemaps:"기관의 베이스맵 갤러리 설정과 동기화",customBasemaps:"사용자 설정 베이스맵 구성",importBasemaps:"가져오기",importTips:"'가져오기' 버튼을 클릭하여 맵 위젯의 베이스맵을 추가합니다.",sideTitle:"베이스맵 가져오기",chooseWebmaps:"웹 맵을 베이스맵으로 사용할 수 있는 그룹을 선택합니다."})}}}));

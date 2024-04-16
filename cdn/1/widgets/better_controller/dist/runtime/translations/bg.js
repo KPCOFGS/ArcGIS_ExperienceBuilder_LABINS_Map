@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({_widgetLabel:"Контролер на изпълним модул"})}}}));
