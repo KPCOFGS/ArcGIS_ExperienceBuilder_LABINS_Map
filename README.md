@@ -17,6 +17,6 @@ See the [LICENSE](LICENSE) file for details.
 
 ## Thanks to our contributors
 
-<a href="https://github.com/KPCOFGS/ArcGIS_ExperienceBuilder_Custom_Widget/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=KPCOFGS/ArcGIS_ExperienceBuilder_Custom_Widget" />
+<a href="https://github.com/KPCOFGS/ArcGIS_ExperienceBuilder_LABINS_Map/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=KPCOFGS/ArcGIS_ExperienceBuilder_LABINS_Map" />
 </a>
