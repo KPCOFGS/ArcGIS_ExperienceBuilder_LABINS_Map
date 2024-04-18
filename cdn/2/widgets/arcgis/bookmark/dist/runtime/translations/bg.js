@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({_widgetLabel:"Отметка",_widgetDescription:"Изпълнимият модул идентифицира конкретни географски местоположения и ги записва, за да се направи справка по-късно",addBookmark:"Добавяне на отметка",layoutTips:"Това е областта за персонализиране",bookmarkList:"Списък с отметки",graphicLayer:"Графичен слой с отметки"})}}}));

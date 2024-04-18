@@ -1,0 +1,29 @@
+{
+  "1713399419821.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1713399419821.png",
+    "properties": {
+      "filename": "1713399419821.png",
+      "originalName": "1.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1713399419821.png",
+      "inlineSvg": false
+    }
+  },
+  "1713399474739.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1713399474739.png",
+    "properties": {
+      "filename": "1713399474739.png",
+      "originalName": "1.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1713399474739.png",
+      "inlineSvg": false
+    }
+  },
+  "1713399509299.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1713399509299.png",
+    "properties": {
+      "filename": "1713399509299.png",
+      "originalName": "1.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1713399509299.png",
+      "inlineSvg": false
+    }
+  }
+}

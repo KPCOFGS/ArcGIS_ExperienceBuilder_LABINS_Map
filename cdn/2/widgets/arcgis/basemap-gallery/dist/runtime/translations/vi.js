@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({_widgetLabel:"Bộ sưu tập bản đồ nền"})}}}));

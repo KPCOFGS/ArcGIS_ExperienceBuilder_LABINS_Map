@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({sourceLabel:"Fuente",sourceDescript:"Un mapa web, una escena web o cualquier combinación de ambos.",options:"Opciones",showBaseMap:"Mostrar leyendas de mapa base",cardStyle:"Utilizar estilo de tarjeta"})}}}));

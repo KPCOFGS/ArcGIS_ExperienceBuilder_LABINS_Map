@@ -1,0 +1,30 @@
+{
+ "printServiceType": "CUSTOMIZE",
+ "printTemplateType": "CUSTOMIZE",
+ "modeType": "CLASSIC",
+ "commonSetting": {
+   "scalePreserved": false,
+   "layoutOptions": {
+     "titleText": "ArcGIS Web Map"
+    },
+    "outScale": 36978595.474472,
+   "exportOptions": {
+     "dpi": 96
+   },
+   "printExtentType": "CURRENT MAP EXTENT",
+   "forceFeatureAttributes": false,
+   "wkid": 102100,
+   "wkidLabel": "WGS_1984_Web_Mercator_Auxiliary_Sphere",
+   "enableTitle": true,
+   "enableMapPrintExtents": true,
+   "enableOutputSpatialReference": false,
+   "enableQuality": true,
+   "enableFeatureAttribution": true
+ },
+ "previewBackgroundColor": "rgba(0,216,237,1)",
+ "enablePreview": true,
+ "previewOutLine": {
+    "color": "#000",
+    "size": "4px"
+ }
+}

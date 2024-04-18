@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({_widgetLabel:"坐标",mapClickTips:"单击地图以获取坐标",mouseMoveTips:"移动光标以获取坐标",enableClickTips:"启用单击地图以获取坐标",disableClickTips:"禁用单击地图以获取坐标",computing:"正在计算...",changeSystem:"选择输出坐标系",eyeAlt:" 眼高度({alt})",elev:"高程({ele})"})}}}));
