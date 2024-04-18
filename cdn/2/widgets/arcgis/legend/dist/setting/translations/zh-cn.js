@@ -1,1 +1,0 @@
-System.register([],(function(e){return{execute:function(){e({sourceLabel:"源",sourceDescript:"Web 地图或 Web 场景，或两者的任意组合。",options:"选项",showBaseMap:"显示底图图例",cardStyle:"使用卡片样式"})}}}));

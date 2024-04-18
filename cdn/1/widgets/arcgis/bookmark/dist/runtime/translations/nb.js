@@ -1,1 +1,0 @@
-System.register([],(function(e){return{execute:function(){e({_widgetLabel:"Bokmerke",_widgetDescription:"Et miniprogram identifiserer spesifikke geografiske lokasjoner og lagrer dem for å vise til dem senere.",addBookmark:"Legg til bokmerke",layoutTips:"Dette området kan tilpasses",bookmarkList:"Bokmerkeliste",graphicLayer:"Bokmerkegrafikklag"})}}}));

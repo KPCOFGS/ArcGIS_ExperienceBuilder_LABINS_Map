@@ -1,1 +1,0 @@
-System.register([],(function(e){return{execute:function(){e({_widgetLabel:"Bokmärke",_widgetDescription:"En widget identifierar specifika geografiska platser och sparar dem för senare referens.",addBookmark:"Lägg till bokmärke",layoutTips:"Detta är det anpassningsbara området",bookmarkList:"Bokmärkeslista",graphicLayer:"Bokmärkets grafiklager"})}}}));

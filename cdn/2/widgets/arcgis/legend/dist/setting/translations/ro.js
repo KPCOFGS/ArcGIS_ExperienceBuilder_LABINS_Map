@@ -1,1 +1,0 @@
-System.register([],(function(e){return{execute:function(){e({sourceLabel:"Sursă",sourceDescript:"O hartă sau scenă web ori o combinație a celor două.",options:"Opțiuni",showBaseMap:"Afișare legende hărți fundal",cardStyle:"Utilizare stil card"})}}}));

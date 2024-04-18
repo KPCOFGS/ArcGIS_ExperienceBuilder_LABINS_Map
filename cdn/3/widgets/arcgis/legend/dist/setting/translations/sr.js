@@ -1,1 +1,0 @@
-System.register([],(function(e){return{execute:function(){e({sourceLabel:"Izvor",sourceDescript:"Veb mapa ili veb scena ili bilo koja kombinacija za ta dva.",options:"Opcije",showBaseMap:"Prikaži legende pozadinske mape",cardStyle:"Upotrebi stil karte"})}}}));

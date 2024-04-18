@@ -1,1 +1,0 @@
-System.register([],(function(e){return{execute:function(){e({_widgetLabel:"Obeleživač",_widgetDescription:"Vidžet identifikuje određene geografske lokacije i čuva ih kao referencu za kasnije.",addBookmark:"Dodaj obeleživač",layoutTips:"Ovo je prilagodljiva površina",bookmarkList:"Lista obeleživača",graphicLayer:"Obeleživač grafičkog sloja"})}}}));

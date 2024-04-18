@@ -1,1 +1,0 @@
-System.register([],(function(e){return{execute:function(){e({_widgetLabel:"座標",mapClickTips:"按一下地圖以取得座標",mouseMoveTips:"移動游標以取得座標",enableClickTips:"啟用按一下地圖以取得座標",disableClickTips:"停用按一下地圖以取得座標",computing:"正在計算...",changeSystem:"選擇輸出座標系統",eyeAlt:" 眼睛屬性 ({alt})",elev:"高程 ({ele})"})}}}));
