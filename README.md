@@ -4,7 +4,6 @@
 
 Installation:
 1. Download the source code [here](https://github.com/KPCOFGS/ArcGIS_ExperienceBuilder_LABINS_Map/releases/tag/1.0.0) as `.zip` file and extract it
-   * Alternatively, you can use git to clone this repository
 2. Start the Experience Builder Developer Edition
 3. Click import from computer and find the folder you just uncompressed
 4. Go inside the folder and find the `LABINS.zip` file and import it
