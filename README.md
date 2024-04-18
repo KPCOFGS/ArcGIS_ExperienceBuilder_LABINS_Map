@@ -7,7 +7,7 @@ Installation:
    * Alternatively, you can use git to clone this repository
 2. Start the Experience Builder Developer Edition
 3. Click import from computer and find the folder you just uncompressed
-4. Go inside the folder and find the `.zip` file and import it
+4. Go inside the folder and find the `LABINS.zip` file and import it
 5. Wait and then it will be imported to your computer
 
 ## License
