@@ -3,7 +3,7 @@
 **Note: This repository is meant for ArcGIS Experience Builder Developer version 1.13**
 
 Installation:
-1. Download the source code [here](https://github.com/KPCOFGS/ArcGIS_ExperienceBuilder_LABINS_Map/releases/tag/1.1.0) as `.zip` file and extract it
+1. Download the source code [here](https://github.com/KPCOFGS/ArcGIS_ExperienceBuilder_LABINS_Map/releases/tag/1.0.0) as `.zip` file and extract it
    * Alternatively, you can use git to clone this repository
 2. Start the Experience Builder Developer Edition
 3. Click import from computer and find the folder you just uncompressed
