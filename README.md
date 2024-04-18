@@ -11,7 +11,7 @@ Installation:
 5. Wait and then it will be imported to your computer
 
 ## License
-This project is licensed under the GNU GENERAL PUBLIC LICENSE
+This project is licensed under the Apache License
 
 See the [LICENSE](LICENSE) file for details.
 
