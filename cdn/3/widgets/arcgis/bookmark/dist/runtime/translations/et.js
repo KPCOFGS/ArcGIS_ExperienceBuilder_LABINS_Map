@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({_widgetLabel:"Järjehoidja",_widgetDescription:"Vidin konkreetsete geograafiliste asukohtade tuvastamiseks ja hilisema kasutamise eesmärgil salvestamiseks.",addBookmark:"Lisa järjehoidja",layoutTips:"See on kohandatav ala",bookmarkList:"Järjehoidjate loend",graphicLayer:"Sea graafikakihi järjehoidja"})}}}));

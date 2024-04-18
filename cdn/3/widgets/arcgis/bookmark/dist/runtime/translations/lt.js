@@ -1,0 +1,1 @@
+System.register([],(function(i){return{execute:function(){i({_widgetLabel:"Žymos",_widgetDescription:"Valdiklis identifikuoja konkrečias geografines vietas ir jas išsaugo vėlesniam naudojimui.",addBookmark:"Pridėti žymą",layoutTips:"Tai yra adaptuojama sritis",bookmarkList:"Žymių sąrašas",graphicLayer:"Žymų grafikos sluoksnis"})}}}));

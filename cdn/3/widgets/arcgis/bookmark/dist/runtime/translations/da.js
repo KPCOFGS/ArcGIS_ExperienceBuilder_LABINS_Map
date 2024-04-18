@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({_widgetLabel:"Bogmærke",_widgetDescription:"En widget identificerer bestemte geografiske placeringer og gemmer dem til senere reference.",addBookmark:"Tilføj bogmærke",layoutTips:"Dette er det tilpasede område",bookmarkList:"Bogmærkeliste",graphicLayer:"Bogmærke-grafiklag"})}}}));

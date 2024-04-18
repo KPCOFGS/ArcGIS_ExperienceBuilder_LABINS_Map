@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68" height="68" viewBox="0 0 68 68" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="4" y="4" width="8" height="8" rx="2" fill="#6A6A6A"/>
+<path d="M4 16C4 15.4477 4.44772 15 5 15H63C63.5523 15 64 15.4477 64 16V63C64 63.5523 63.5523 64 63 64H5C4.44771 64 4 63.5523 4 63V16Z" fill="#282828"/>
+<rect x="8" y="19" width="21" height="4" rx="1" fill="#6A6A6A"/>
+<path d="M55.7071 19L55 19.7071L56.4142 21.1213L55 22.5355L55.7071 23.2426L57.1213 21.8284L58.5355 23.2426L59.2426 22.5355L57.8284 21.1213L59.2426 19.7071L58.5355 19L57.1213 20.4142L55.7071 19Z" fill="#525252"/>
+<rect x="8" y="29" width="52" height="8" rx="1" fill="#363636"/>
+<rect x="10" y="31" width="26" height="4" rx="1" fill="#6A6A6A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M56.6464 33L55 31.3536L55.7071 30.6465L58.0607 33L55.7071 35.3536L55 34.6465L56.6464 33Z" fill="#525252"/>
+<rect x="8" y="40" width="52" height="8" rx="1" fill="#363636"/>
+<rect x="10" y="42" width="26" height="4" rx="1" fill="#6A6A6A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M56.6464 44L55 42.3536L55.7071 41.6465L58.0607 44L55.7071 46.3536L55 45.6465L56.6464 44Z" fill="#525252"/>
+<rect x="8" y="51" width="52" height="8" rx="1" fill="#363636"/>
+<rect x="10" y="53" width="26" height="4" rx="1" fill="#6A6A6A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M56.6464 55L55 53.3536L55.7071 52.6465L58.0607 55L55.7071 57.3536L55 56.6465L56.6464 55Z" fill="#525252"/>
+</svg>

@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({baseMapSettings:"底圖設定",groupBasemaps:"與您組織的底圖圖庫設定同步",customBasemaps:"配置自訂底圖",importBasemaps:"匯入",importTips:"按一下「匯入」按鈕為地圖 widget 新增底圖。",sideTitle:"匯入底圖",chooseWebmaps:"選擇可將 Web 地圖作為底圖的群組。"})}}}));

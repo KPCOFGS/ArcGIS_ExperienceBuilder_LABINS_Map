@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68" height="68" viewBox="0 0 68 68" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="4" y="4" width="60" height="60" rx="1" fill="#282828"/>
+<rect x="8" y="8" width="52" height="8" rx="1" fill="#363636"/>
+<rect x="10" y="10" width="26" height="4" rx="1" fill="#6A6A6A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M56.6464 12L55 10.3536L55.7071 9.64648L58.0607 12L55.7071 14.3536L55 13.6465L56.6464 12Z" fill="#525252"/>
+<rect x="8" y="19" width="52" height="8" rx="1" fill="#363636"/>
+<rect x="10" y="21" width="26" height="4" rx="1" fill="#6A6A6A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M56.6464 23L55 21.3536L55.7071 20.6465L58.0607 23L55.7071 25.3536L55 24.6465L56.6464 23Z" fill="#525252"/>
+<rect x="8" y="30" width="52" height="8" rx="1" fill="#363636"/>
+<rect x="10" y="32" width="26" height="4" rx="1" fill="#6A6A6A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M56.6464 34L55 32.3536L55.7071 31.6465L58.0607 34L55.7071 36.3536L55 35.6465L56.6464 34Z" fill="#525252"/>
+<rect x="8" y="41" width="52" height="8" rx="1" fill="#363636"/>
+<rect x="10" y="43" width="26" height="4" rx="1" fill="#6A6A6A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M56.6464 45L55 43.3536L55.7071 42.6465L58.0607 45L55.7071 47.3536L55 46.6465L56.6464 45Z" fill="#525252"/>
+<rect x="8" y="52" width="52" height="8" rx="1" fill="#363636"/>
+<rect x="10" y="54" width="26" height="4" rx="1" fill="#6A6A6A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M56.6464 56L55 54.3536L55.7071 53.6465L58.0607 56L55.7071 58.3536L55 57.6465L56.6464 56Z" fill="#525252"/>
+</svg>

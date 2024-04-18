@@ -1,0 +1,13 @@
+{
+  "queryItems": [],
+  "arrangeType": "BLOCK",
+  "arrangeWrap": false,
+  "resultListDirection": "Vertical",
+  "resultPagingStyle": "MultiPage",
+  "sizeMap": {
+    "arrangementIconPopper": {
+      "minSize": { "width": 300, "height": 300 },
+      "defaultSize": { "width": 360, "height": 480 }
+    }
+  }
+}

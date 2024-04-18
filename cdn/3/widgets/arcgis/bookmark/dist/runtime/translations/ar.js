@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({_widgetLabel:"إشارة مرجعية",_widgetDescription:"عنصر واجهة المستخدم يحدد مواقع جغرافية محددة ويحفظها للرجوع إليها فيما بعد.",addBookmark:"إضافة علامة مرجعية",layoutTips:"هذه هي المنطقة القابلة للتخصيص",bookmarkList:"قائمة الإشارات المرجعية",graphicLayer:"طبقة رسومات الإشارة المرجعية"})}}}));

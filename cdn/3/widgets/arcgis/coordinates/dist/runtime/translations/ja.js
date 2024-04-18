@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({_widgetLabel:"座標",mapClickTips:"マップをクリックして座標を取得",mouseMoveTips:"カーソルを移動して座標を取得",enableClickTips:"マップのクリックによる座標の取得を有効化",disableClickTips:"マップのクリックによる座標の取得を無効化",computing:"計算中...",changeSystem:"出力座標系の選択",eyeAlt:" 視点高度 ({alt})",elev:"標高 ({ele})"})}}}));
