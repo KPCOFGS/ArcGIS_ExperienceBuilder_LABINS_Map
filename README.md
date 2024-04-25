@@ -16,4 +16,4 @@ See the [LICENSE](LICENSE) file for details.
 
 ## Contributors
 
-[![All Contributors](https://img.shields.io/github/all-contributors/KPCOFGS/ArcGIS_ExperienceBuilder_LABINS_Map?color=ee8449&style=flat-square)](#contributors)
+[![](https://img.shields.io/github/all-contributors/KPCOFGS/ArcGIS_ExperienceBuilder_LABINS_Map?color=ee8449&style=flat-square)](#contributors)
