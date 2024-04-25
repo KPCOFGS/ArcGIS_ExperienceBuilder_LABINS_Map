@@ -14,8 +14,6 @@ This project is licensed under the Apache License 2.0
 
 See the [LICENSE](LICENSE) file for details.
 
-## Thanks to our contributors
+## Contributors
 
-<a href="https://github.com/KPCOFGS/ArcGIS_ExperienceBuilder_LABINS_Map/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=KPCOFGS/ArcGIS_ExperienceBuilder_LABINS_Map"/>
-</a>
+[![All Contributors](https://img.shields.io/github/all-contributors/KPCOFGS/ArcGIS_ExperienceBuilder_LABINS_Map?color=ee8449&style=flat-square)](#contributors)
