@@ -30,7 +30,7 @@ See the [LICENSE](LICENSE) file for details.
         <a href="https://github.com/lydarr">
             <img src="https://avatars.githubusercontent.com/u/167205468?v=4" width="100;" alt="lydarr"/>
             <br />
-            <sub><b>Null</b></sub>
+            <sub><b>Lydia</b></sub>
         </a>
     </td></tr>
 </table>
