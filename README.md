@@ -23,7 +23,7 @@ See the [LICENSE](LICENSE) file for details.
         <a href="https://github.com/KPCOFGS">
             <img src="https://avatars.githubusercontent.com/u/100217654?v=4" width="100;" alt="KPCOFGS"/>
             <br />
-            <sub><b>Shi Sheng</b></sub>
+            <sub><b>Shixian Sheng</b></sub>
         </a>
     </td>
     <td align="center">
