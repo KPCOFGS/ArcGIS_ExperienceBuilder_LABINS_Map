@@ -1,6 +1,6 @@
 # ArcGIS_ExperienceBuilder_LABINS_Map
 
-LABINS website map open source
+LABINS Explorer map open source
 
 ## Installation
 
