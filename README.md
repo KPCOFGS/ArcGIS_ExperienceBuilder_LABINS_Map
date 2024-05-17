@@ -12,6 +12,7 @@ LABINS Explorer map open source
 
 ## Map Breakdown
 * Main map: The main map, consists of clickable data points
+* Feature Panel: Display the details of the data point you clicked on the map
 * Overview Map: an overview map
 * Coordinates: Upon clicking on the map, it will tell you about the coordinates of that place
 * Menu: A collection of other widgets
