@@ -10,6 +10,15 @@ LABINS Explorer map open source
 4. Go inside the folder and find the `LABINS.zip` file and import it
 5. Wait and then it will be imported to your computer
 
+## Map Breakdown
+* Overview Map: an overview map
+* Coordinates: Upon clicking on the map, it will tell you about the coordinates of that place
+* Menu: A collection of other widgets
+    * Data Query: Querying data points
+    * Zoom to feature: Zoom to a specific place on map
+    * Print: Print the map
+    * Bookmark: Bookmark a place on the map
+
 ## License
 This project is licensed under the Apache License 2.0
 
