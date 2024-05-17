@@ -11,6 +11,7 @@ LABINS Explorer map open source
 5. Wait and then it will be imported to your computer
 
 ## Map Breakdown
+* Main map: The main map, consists of clickable data points
 * Overview Map: an overview map
 * Coordinates: Upon clicking on the map, it will tell you about the coordinates of that place
 * Menu: A collection of other widgets
