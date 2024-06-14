@@ -3,7 +3,7 @@ import os
 import sys
 
 # Get file paths and app URL from environment variables or command-line arguments
-zip_file_path = os.getenv('ZIP_FILE_PATH', sys.argv[1])
+zip_file_path = os.getenv('ZIP_FILE_PATH', sys.argv[0])
 config_file_name = 'config.json'
 
 # Open the zip file
