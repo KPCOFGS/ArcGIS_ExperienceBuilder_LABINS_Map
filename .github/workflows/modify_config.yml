@@ -20,7 +20,7 @@ jobs:
 
     - name: Modify config
       run: |
-        cd ..
+        cd ../..
         python modify_config.py
       env:
         ZIP_FILE_PATH: ../LABINS.zip  # Update with your zip file path
