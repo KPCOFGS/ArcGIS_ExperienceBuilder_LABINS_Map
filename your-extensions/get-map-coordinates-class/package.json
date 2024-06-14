@@ -1,0 +1,16 @@
+{
+  "name": "get-map-coordinates-class",
+  "version": "1.0.0",
+  "description": "This widget demonstrates how to display the latitude/longitude, scale, and zoom level of the map. Step-by-step instructions for building this widget can be found in the [ArcGIS for Developers Tutorials](https://developers.arcgis.com/labs/experiencebuilder/get-map-coordinates/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child-process-ext": "^3.0.2",
+    "child_process": "^1.0.2",
+    "proj4": "^2.11.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "tidalRequest",
+  "label": "Tidal Request",
+  "type": "widget",
+  "version": "1.13.0",
+  "exbVersion": "1.13.0",
+  "author": "SWH - FREAC",
+  "description": "This widget creates a link for requesting a Tidal elevation from DEP",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 500,
+    "height": 150
+  }
+}
