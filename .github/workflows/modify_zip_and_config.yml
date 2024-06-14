@@ -1,0 +1,30 @@
+name: Modify Zip and Config
+
+on:
+  push:
+    branches:
+      - main  # You can adjust the branch trigger as needed
+
+jobs:
+  modify_zip_and_config:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Unzip folder
+        run: unzip LABINS.zip -d temp_folder
+
+      - name: Modify config.json
+        run: |
+          sed -i 's|https://localhost:3001/builder/|${{ secrets.APP_RESOURCE_URL }}/|g' temp_folder/cdn/*/config.json
+
+      - name: Zip modified folder
+        run: zip -r LABINS.zip temp_folder/*
+
+      - name: Upload modified archive
+        uses: actions/upload-artifact@v2
+        with:
+          name: LABINS
+          path: LABINS.zip
