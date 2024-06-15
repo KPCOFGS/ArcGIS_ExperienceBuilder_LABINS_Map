@@ -19,4 +19,4 @@ jobs:
         python-version: '3.11'  # Replace with your Python version
 
     - name: Execute script
-      run: python modify_config.py   # Replace with the actual command to run your script
+      run: python modify_config.py LABINS_test.zip  # Replace with the actual command to run your script
