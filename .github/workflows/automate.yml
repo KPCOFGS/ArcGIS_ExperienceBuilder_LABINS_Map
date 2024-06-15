@@ -3,7 +3,7 @@ name: Process Uploaded Zip
 on:
   push:
     paths:
-      - 'main/LABINS.zip'   # Trigger on any zip file pushed to any branch
+      - 'main/LABINS_test.zip'   # Trigger on any zip file pushed to any branch
 
 jobs:
   process-zip:
