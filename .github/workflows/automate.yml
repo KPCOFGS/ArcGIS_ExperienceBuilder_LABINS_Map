@@ -1,0 +1,22 @@
+name: Process Uploaded Zip
+
+on:
+  push:
+    paths:
+      - 'main/LABINS.zip'   # Trigger on any zip file pushed to any branch
+
+jobs:
+  process-zip:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.11'  # Replace with your Python version
+
+    - name: Execute script
+      run: python modify_config.py   # Replace with the actual command to run your script
