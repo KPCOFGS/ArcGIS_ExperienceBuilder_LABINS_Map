@@ -4,13 +4,6 @@ This script is intended to fix an issue where when a map is developed in the Exp
 
 You can further automate this by setting up a daily system task that will activate this script whenever the map gets updated
 
-## Installation
-
-```bash
-git clone https://github.com/KPCOFGS/ArcGIS_ExBDev_Icon_Fix.git
-cd ArcGIS_ExBDev_Icon_Fix
-```
-
 ## Parameter
 
 `file_path` Required. Path to the `.zip` file
