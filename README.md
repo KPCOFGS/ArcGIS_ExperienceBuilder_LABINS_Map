@@ -1,49 +1,30 @@
-# ArcGIS_ExperienceBuilder_LABINS_Map
+# ArcGIS_ExBDev_Icon_Fix
 
-LABINS Explorer map open source
+This script is intended to fix an issue where when a map is developed in the Experience Builder Developer, the icons show an "X" mark when passed onto the server
+
+You can further automate this by setting up a daily system task that will activate this script whenever the map gets updated
 
 ## Installation
 
-1. Click [here](LABINS.zip) and click `View Raw` and download as `.zip` file and extract it
-2. Start the Experience Builder Developer Edition
-3. Click import from computer and find the folder you just uncompressed
-4. Go inside the folder and find the `LABINS.zip` file and import it
-5. Wait and then it will be imported to your computer
+```bash
+git clone https://github.com/KPCOFGS/ArcGIS_ExBDev_Icon_Fix.git
+cd ArcGIS_ExBDev_Icon_Fix
+```
 
-## Map Breakdown
-* Main map: The main map, consists of clickable data points
-* Feature Panel: Display the details of the data point you clicked on the map
-* Overview Map: an overview map
-* Coordinates: Upon clicking on the map, it will tell you about the coordinates of that place
-* Menu: A collection of other widgets
-    * Data Query: Querying data points
-    * Zoom to feature: Zoom to a specific place on map
-    * Print: Print the map
-    * Bookmark: Bookmark a place on the map
+## Parameter
 
-## License
-This project is licensed under the Apache License 2.0
+`file_path` Required. Path to the `.zip` file
 
-See the [LICENSE](LICENSE) file for details.
+## Example Usage
 
-## Thanks to our contributors
+`python3 modify_config.py map.zip`
 
-<!-- readme: contributors -start -->
-<table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/KPCOFGS">
-            <img src="https://avatars.githubusercontent.com/u/100217654?v=4" width="100;" alt="KPCOFGS"/>
-            <br />
-            <sub><b>Shixian Sheng</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/lydarr">
-            <img src="https://avatars.githubusercontent.com/u/167205468?v=4" width="100;" alt="lydarr"/>
-            <br />
-            <sub><b>Lydia</b></sub>
-        </a>
-    </td></tr>
-</table>
-<!-- readme: contributors -end -->
+`python3 modify_config.py /home/user/Downloads/map.zip`
+
+`python3 modify_config.py ./Downloads/map.zip`
+
+## Notes
+* The script assumes the map is in `.zip` file already
+* The script assumes there is only one sub-directory after `/cdn/` folder
+* The script assumes there is only one `config.json` file after `/cdn/sub_directory/` folder
+* The script assumes `/cdn/sub_directory/config.json` is the  correct json file that has the path to icon images
