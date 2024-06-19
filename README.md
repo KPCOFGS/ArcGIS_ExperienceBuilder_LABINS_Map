@@ -21,6 +21,9 @@ LABINS Explorer map open source
     * Print: Print the map
     * Bookmark: Bookmark a place on the map
 
+## Note
+* If there is an issue with icons when the map gets passed onto the server, please visit (here)[./modify_config] for a fix
+
 ## License
 This project is licensed under the Apache License 2.0
 
