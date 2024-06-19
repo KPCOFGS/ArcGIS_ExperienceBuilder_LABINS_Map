@@ -1,4 +1,4 @@
-# ArcGIS_ExBDev_Icon_Fix
+# Icon Fix
 
 This script is intended to fix an issue where when a map is developed in the Experience Builder Developer, the icons show an "X" mark when passed onto the server
 
